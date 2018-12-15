@@ -1,3 +1,3 @@
 #Autolayout - UIStackview
 
-[video demo](./autolayout-demo.mov)
+![alt text](./autolayout-demo.gif)
